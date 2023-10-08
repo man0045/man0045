@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mannu Chaurasiya🤑</h1>
-<div align= "center"> <img src = ""
+<div align= "center"> <img src = "https://github.com/man0045/man0045/blob/main/mannu-banner..png?raw=true"></div>
 <h3 align="center">A Passionate programmer from india</h3>
 <img align = "right" alt = "coding" width="400" src = "https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e4739biuui6xfhrl2wm8dk656pl5chwizgw48yeosyp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=man0045&label=Profile%20views&color=0e75b6&style=flat" alt="man0045" /> </p>
