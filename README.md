@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mannu-chaurasiya-15793a23a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mannu-chaurasiya-15793a23a" height="30" width="40" /></a>
 <a href="https://instagram.com/mannu45chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mannu45chaurasiya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mannu chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mannu chaurasiya" height="30" width="40" /></a>
+<a href="https://leetcode.com/Mannu_Chaurasiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mannu chaurasiya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aman45chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aman45chaurasiya" height="30" width="40" /></a>
 </p>
 
