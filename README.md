@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mannu Chaurasiya🤑</h1>
 <h3 align="center">A Passionate programmer from india</h3>
-
+<img align = "right" alt = "coding" width="400" src = ""
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=man0045&label=Profile%20views&color=0e75b6&style=flat" alt="man0045" /> </p>
 
 - 🔭 I’m currently working on [Dynammic Programming in October](https://github.com/man0045/Data_Structure_with_Cpp)
